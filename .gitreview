@@ -1,4 +1,0 @@
-[gerrit]
-host=photon-jenkins.eng.vmware.com
-port=29418
-project=Test_Gerrit.git
